@@ -1,0 +1,5 @@
+{
+  "name": "DeepResearch AI",
+  "description": "A minimalist, high-performance deep research agent that generates comprehensive markdown reports with real-time citations using Google Gemini.",
+  "requestFramePermissions": []
+}
